@@ -1,0 +1,3 @@
+D:/Pulpit/Clicker/cmake-build-debug/CMakeFiles/Clicker.dir
+D:/Pulpit/Clicker/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Pulpit/Clicker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
